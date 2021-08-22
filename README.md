@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Front End Engineer
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Safe of Web
+- 👯 I’m looking to collaborate on performance of Web
 - 🤔 I’m looking for help with FE Team Building
 
 <!--
