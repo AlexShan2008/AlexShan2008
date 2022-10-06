@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Front End Developer
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently using React and TypeScript
 - 👯 I’m looking to collaborate on performance of Web
 - 🤔 I’m looking for help with FE Team Building
 
