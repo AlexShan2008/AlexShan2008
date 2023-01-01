@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Front End Developer
 - 🌱 I’m currently using React and TypeScript
-- 👯 I’m looking to collaborate on performance of Web
-- 🤔 I’m looking for help with FE Team Building
+- 👯 I’m looking to collaborate on FE Team Building
+- 🤔 I’m looking for help with web 3.0
 
 <!--
 - 💬 Ask me about ...
