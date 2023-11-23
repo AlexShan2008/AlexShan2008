@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a Front End Developer
 - 🌱 I’m currently using React and TypeScript
 - 👯 I’m looking to collaborate on FE Team Building
-- 🤔 I’m looking for help with web 3.0
+- 🤔 I’m looking for help with E2E testing
 
 <!--
 - 💬 Ask me about ...
