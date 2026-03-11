@@ -1,20 +1,7 @@
-### Hi there 👋，
-### I’m [Alex](http://alexshan.com/) from China
+## Hi there 👋
 
-<!--
-**AlexShan2008/AlexShan2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alex**, a Frontend Tech Lead based in China.
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m a Front End Developer
-- 🌱 I’m currently using React and TypeScript
-- 👯 I’m looking to collaborate on FE Team Building
-- 🤔 I’m looking for help with E2E testing
-
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 10+ years of frontend engineering experience, leading frontend architecture for a fintech SaaS platform
+- Focused on scalable frontend systems and engineering quality
+- Exploring AI applications in: developer productivity tools and practical AI solutions with strong security and privacy considerations
